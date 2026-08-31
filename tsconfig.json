@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+
+    "target": "esnext",
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "allowArbitraryExtensions": true,
+    
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"],
+      "@CSS/*" : ["src/CSS/*"]
+    },
+   
+    "noImplicitAny": true,
+    "sourceMap": false,
+    "declaration": false,
+  
+    "ignoreDeprecations": "6.0",
+    "lib": [ "dom" , "ESNext"],
+  },
+  "include": ["./src/**/*"],
+  "exclude": ["node_modules", "dist"]
+}

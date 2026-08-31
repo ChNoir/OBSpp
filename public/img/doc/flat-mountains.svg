@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1600 900"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="flat-mountains.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.45277778"
+     inkscape:cx="1013.7423"
+     inkscape:cy="630.55215"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <polygon
+     fill="#4d5560"
+     points="957 450 539 900 1396 900"
+     id="polygon1" />
+  <polygon
+     fill="#19202b"
+     points="957 450 872.9 900 1396 900"
+     id="polygon2" />
+  <polygon
+     fill="#565d68"
+     points="-60 900 398 662 816 900"
+     id="polygon3" />
+  <polygon
+     fill="#1d2430"
+     points="337 900 398 662 816 900"
+     id="polygon4" />
+  <polygon
+     fill="#5e6570"
+     points="1203 546 1552 900 876 900"
+     id="polygon5" />
+  <polygon
+     fill="#212935"
+     points="1203 546 1552 900 1162 900"
+     id="polygon6" />
+  <polygon
+     fill="#676e78"
+     points="641 695 886 900 367 900"
+     id="polygon7" />
+  <polygon
+     fill="#252e3a"
+     points="587 900 641 695 886 900"
+     id="polygon8" />
+  <polygon
+     fill="#707680"
+     points="1710 900 1401 632 1096 900"
+     id="polygon9" />
+  <polygon
+     fill="#2a323f"
+     points="1710 900 1401 632 1365 900"
+     id="polygon10" />
+  <polygon
+     fill="#797f88"
+     points="1210 900 971 687 725 900"
+     id="polygon11" />
+  <polygon
+     fill="#2e3744"
+     points="943 900 1210 900 971 687"
+     id="polygon12" />
+</svg>

@@ -1,0 +1,19 @@
+@font-face {
+    font-family:"AlbertSans" ;
+    src: url("/css/font/AlbertSans-Regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family:"AlbertSans-ExtraBold";
+    src: url("/css/font/AlbertSans-ExtraBold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family:"AlbertSans-SemiBold";
+    src: url("/css/font/AlbertSans-SemiBold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family:"ProggyClean";
+    src: url("/css/font/SourceCodePro-Regular.woff2") format("woff2");
+}

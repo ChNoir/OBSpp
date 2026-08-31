@@ -1,0 +1,9 @@
+sqlite.db
+.env
+OAuth/**/*.json
+node_modules
+musiques/**/*.mp3
+musiques/**/*.jpg
+cache
+doc/.vuepress/.cache
+doc/.vuepress/.temp

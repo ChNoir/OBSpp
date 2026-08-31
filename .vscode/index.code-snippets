@@ -1,0 +1,32 @@
+{
+    "Class" : {
+        "prefix": "Class",
+        "scope": "typescript",
+        "body" : [
+            "export class ${1:ClassName} {",
+            "\tpublic static console: ConsoleLogger;",
+            "\tpublic static I18n: I18nColdContext<${1:ClassName}_I18nMap>;",
+            "\tpublic static EnvConfig: EnvConfigContext<${1:ClassName}_EnvConfigMap>",
+            "",
+            "\tprivate static async _init() {",
+            "\t\t${1:ClassName}.console = ConsoleLogger.getInstance(\"${1:ClassName}\")",
+            "\t\t${1:ClassName}.I18n = I18n.createColdContext<${1:ClassName}_I18nMap>()",
+            "\t\t${1:ClassName}.EnvConfig = EnvConfig.createEnvConfigContext<${1:ClassName}_EnvConfigMap>()",
+            "\t}",
+            "\t${0}",
+            "",
+            "\tstatic { InitsClass.register(${1:ClassName}._init) }",
+            "",
+            "\tconstructor() {}",
+            "",
+            "}",
+            "",
+            "type ${1:ClassName}_I18nMap = {",
+            "",
+            "}",
+            "",
+            "type ${1:ClassName}_EnvConfigMap = \"\""
+
+        ],
+    }
+}
