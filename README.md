@@ -1,5 +1,7 @@
 # OBSpp
 
+**README** : [Français](./README.md) , [English](./README_EN.md)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-20%2B-green?logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
@@ -8,6 +10,7 @@
 ![License](https://img.shields.io/github/license/ChNoir/OBSpp)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ChNoir/OBSpp)
 ![Senior Dev Warning](https://img.shields.io/badge/Senior%20Dev%20Warning-👁️%20Protect%20Your%20Eyes%20🤡-red)
+
 
 **OBSpp (OBS++)** est une application Fullstack TypeScript permettant d'enrichir **OBS Studio** avec des fonctionnalités interactives, des overlays personnalisés, des intégrations de plateformes de streaming (Twitch, YouTube, Discord) et un système de communication temps réel.
 
